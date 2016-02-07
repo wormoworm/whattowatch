@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">What to Watch</string>
+    <string name="demo_title_name">Skyfall</string>
+    <string name="demo_title_subheading">2012, 2 hr 10 min</string>
+    <string name="demo_title_description">When Bond\'s latest assignment goes gravely wrong and agents around the world are exposed, MI6 is attacked forcing M to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory (Ralph Fiennes), the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows - aided only by field agent, Eve (Naomie Harris) - following a trail to the mysterious Silva (Javier Bardem), whose lethal and hidden motives have yet to reveal themselves.</string>
+    <string name="demo_title_watch_score">88</string>
+    <string name="watch_score">Watch score</string>
+    <string name="read_more">Read more</string>
+    <string name="demo_title_genres">Action | Adventure | Thriller</string>
+    <string name="question_title_previously_watched">Watched this before?</string>
+    <string name="question_title_watch_desire">Want to watch it?</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="answer_recently">Recently</string>
+    <string name="answer_long_time_ago">A long time ago</string>
+    <string name="answer_never">Never</string>
+    <string name="label_not_really">Not really</string>
+    <string name="label_cant_wait">Can\'t wait!</string>
+    <string name="your_watch_score_is">Your watch score is:</string>
+    <string name="watch_score_text_rating_high">You should watch this soon</string>
+    <string name="next_sugguestion">Next suggestion</string>
+    <string name="suggestion_title">Suggestions (3)</string>
+    <string name="searching">Searching</string>
 </resources>
